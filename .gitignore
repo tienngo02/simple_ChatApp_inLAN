@@ -1,0 +1,10 @@
+bin/client/ChatClient.class
+bin/client/ReadThread.class
+bin/client/WriteThread.class
+bin/server/ChatServer.class
+bin/server/UserThread.class
+bin/client/ChatClient$1.class
+bin/client/ChatClientGUI.class
+bin/client/ChatClientGUI$2.class
+bin/client/ChatClientGUI$1.class
+bin/client/ChatClient$2.class
